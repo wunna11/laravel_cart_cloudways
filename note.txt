@@ -1,0 +1,9 @@
+PagesController
+Product -> model controller migrations
+CartController
+
+Database
+Product table -> name,detial,description,brand,price,shipping_cost,image_path
+
+php artisan storage:link
+public\storage and storage\app\public are connected.
